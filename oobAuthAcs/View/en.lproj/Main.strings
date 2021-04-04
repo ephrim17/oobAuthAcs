@@ -1,0 +1,225 @@
+
+/* Class = "UILabel"; text = "Seconds Remaining"; ObjectID = "1u8-67-nIs"; */
+"1u8-67-nIs.text" = "Seconds Remaining";
+
+/* Class = "UILabel"; text = "Enter your password"; ObjectID = "43Z-UJ-YV7"; */
+"43Z-UJ-YV7.text" = "Enter your password";
+
+/* Class = "UILabel"; text = "Get on Board!.."; ObjectID = "5In-YF-ZHJ"; */
+"5In-YF-ZHJ.text" = "Get on Board!..";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6lp-a5-eyW"; */
+"6lp-a5-eyW.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "To get Started!.."; ObjectID = "72W-sX-4hn"; */
+"72W-sX-4hn.text" = "To get Started!..";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8Sv-0I-oa4"; */
+"8Sv-0I-oa4.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Pin"; ObjectID = "8eH-56-VAn"; */
+"8eH-56-VAn.normalTitle" = "Pin";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "93f-kh-6hp"; */
+"93f-kh-6hp.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Get on Board!.."; ObjectID = "9L8-jq-hgO"; */
+"9L8-jq-hgO.text" = "Get on Board!..";
+
+/* Class = "UIViewController"; title = "Alexa Settings"; ObjectID = "9pB-nr-2NU"; */
+"9pB-nr-2NU.title" = "Alexa Settings";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "A4m-uX-onr"; */
+"A4m-uX-onr.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = " OTP"; ObjectID = "BDe-KN-1Pl"; */
+"BDe-KN-1Pl.text" = " OTP";
+
+/* Class = "UILabel"; text = "Please Authenticate For Your Transaction"; ObjectID = "BNz-nX-i04"; */
+"BNz-nX-i04.text" = "Please Authenticate For Your Transaction";
+
+/* Class = "UILabel"; text = "LABELS"; ObjectID = "BgB-qB-d3M"; */
+"BgB-qB-d3M.text" = "LABELS";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "C5c-ih-WDz"; */
+"C5c-ih-WDz.text" = "Label";
+
+/* Class = "UILabel"; text = "To get Started!.."; ObjectID = "C7Y-Ld-225"; */
+"C7Y-Ld-225.text" = "To get Started!..";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "CFi-L7-6Dp"; */
+"CFi-L7-6Dp.placeholder" = "Mobile Number";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "CHM-7J-abe"; */
+"CHM-7J-abe.text" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Soft Token"; ObjectID = "DVj-pk-oPS"; */
+"DVj-pk-oPS.normalTitle" = "Soft Token";
+
+/* Class = "UILabel"; text = "To get Started!.."; ObjectID = "GMM-9K-KKK"; */
+"GMM-9K-KKK.text" = "To get Started!..";
+
+/* Class = "UITextField"; placeholder = "Email-ID"; ObjectID = "GSv-0m-lBN"; */
+"GSv-0m-lBN.placeholder" = "Email-ID";
+
+/* Class = "UILabel"; text = "Please Authenticate For Your Transaction"; ObjectID = "H7b-wA-VcE"; */
+"H7b-wA-VcE.text" = "Please Authenticate For Your Transaction";
+
+/* Class = "UIButton"; normalTitle = "About"; ObjectID = "I3V-O6-hUi"; */
+"I3V-O6-hUi.normalTitle" = "About";
+
+/* Class = "UIButton"; normalTitle = "Home"; ObjectID = "J1n-Oe-Ph4"; */
+"J1n-Oe-Ph4.normalTitle" = "Home";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Nsp-Lf-jFF"; */
+"Nsp-Lf-jFF.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Verifying your Number!.."; ObjectID = "O4u-iE-RzU"; */
+"O4u-iE-RzU.text" = "Verifying your Number!..";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "ObT-5W-dJ8"; */
+"ObT-5W-dJ8.normalTitle" = "SUBMIT";
+
+/* Class = "UIButton"; normalTitle = "Already have an account?"; ObjectID = "OwJ-5R-Ed3"; */
+"OwJ-5R-Ed3.normalTitle" = "Already have an account?";
+
+/* Class = "UILabel"; text = "Enter Credentials"; ObjectID = "QaH-nY-Dp1"; */
+"QaH-nY-Dp1.text" = "Enter Credentials";
+
+/* Class = "UILabel"; text = "EXPIRES IN"; ObjectID = "Qdk-TD-vnv"; */
+"Qdk-TD-vnv.text" = "EXPIRES IN";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Rk9-f0-hzU"; */
+"Rk9-f0-hzU.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "*   *   *   *   *   *"; ObjectID = "Sph-bq-i6K"; */
+"Sph-bq-i6K.placeholder" = "*   *   *   *   *   *";
+
+/* Class = "UIButton"; normalTitle = "UPDATE"; ObjectID = "TcG-Fq-Aq2"; */
+"TcG-Fq-Aq2.normalTitle" = "UPDATE";
+
+/* Class = "UILabel"; text = "Set Password"; ObjectID = "UMM-hY-hBh"; */
+"UMM-hY-hBh.text" = "Set Password";
+
+/* Class = "UILabel"; text = "Please Choose Your Authentication Type to Continue"; ObjectID = "UeA-9O-Zja"; */
+"UeA-9O-Zja.text" = "Please Choose Your Authentication Type to Continue";
+
+/* Class = "UILabel"; text = "+567"; ObjectID = "Uot-lC-YhR"; */
+"Uot-lC-YhR.text" = "+567";
+
+/* Class = "UITextField"; placeholder = "Email-ID/MobileNumber"; ObjectID = "VHA-uA-1Em"; */
+"VHA-uA-1Em.placeholder" = "Email-ID/MobileNumber";
+
+/* Class = "UILabel"; text = "Add Card"; ObjectID = "Z5t-if-h1Q"; */
+"Z5t-if-h1Q.text" = "Add Card";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "ZdB-yg-QNx"; */
+"ZdB-yg-QNx.normalTitle" = "Close";
+
+/* Class = "UITextField"; placeholder = "john@example.com"; ObjectID = "aBz-LJ-HXw"; */
+"aBz-LJ-HXw.placeholder" = "john@example.com";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "bTB-HB-wYP"; */
+"bTB-HB-wYP.placeholder" = "Confirm Password";
+
+/* Class = "UILabel"; text = "Please Authenticate For Your Transaction"; ObjectID = "cTy-iw-VLe"; */
+"cTy-iw-VLe.text" = "Please Authenticate For Your Transaction";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "cZ6-sj-waE"; */
+"cZ6-sj-waE.normalTitle" = "LOGIN";
+
+/* Class = "UILabel"; text = "CODE"; ObjectID = "clI-Te-JEr"; */
+"clI-Te-JEr.text" = "CODE";
+
+/* Class = "UITextField"; placeholder = "xxxx-xxxx-xxxx-xxxx"; ObjectID = "dDD-hO-3Xh"; */
+"dDD-hO-3Xh.placeholder" = "xxxx-xxxx-xxxx-xxxx";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "eMq-s8-KgU"; */
+"eMq-s8-KgU.normalTitle" = "SUBMIT";
+
+/* Class = "UIBarButtonItem"; title = "SIDEMENU"; ObjectID = "eqn-f6-sFg"; */
+"eqn-f6-sFg.title" = "SIDEMENU";
+
+/* Class = "UITextField"; placeholder = "****"; ObjectID = "gAf-9h-ibD"; */
+"gAf-9h-ibD.placeholder" = "****";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gIo-RP-X7x"; */
+"gIo-RP-X7x.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Enter card Number"; ObjectID = "gQz-IZ-FZf"; */
+"gQz-IZ-FZf.text" = "Enter card Number";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gwF-oS-x8j"; */
+"gwF-oS-x8j.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Create an account"; ObjectID = "h9l-Lf-EUK"; */
+"h9l-Lf-EUK.text" = "Create an account";
+
+/* Class = "UILabel"; text = "Enter Credentials"; ObjectID = "hum-c0-PLB"; */
+"hum-c0-PLB.text" = "Enter Credentials";
+
+/* Class = "UIButton"; normalTitle = "SKIP"; ObjectID = "hvR-UB-7n9"; */
+"hvR-UB-7n9.normalTitle" = "SKIP";
+
+/* Class = "UITextField"; placeholder = "John@example.com"; ObjectID = "iVO-vG-sjl"; */
+"iVO-vG-sjl.placeholder" = "John@example.com";
+
+/* Class = "UILabel"; text = "EXPIRES IN"; ObjectID = "jHX-s3-hNo"; */
+"jHX-s3-hNo.text" = "EXPIRES IN";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "moy-JG-cXu"; */
+"moy-JG-cXu.normalTitle" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "Alexa"; ObjectID = "nmy-UV-G7u"; */
+"nmy-UV-G7u.normalTitle" = "Alexa";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pPJ-W0-RGX"; */
+"pPJ-W0-RGX.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Please Authenticate for your Transaction with Soft Token"; ObjectID = "pck-La-ND4"; */
+"pck-La-ND4.text" = "Please Authenticate for your Transaction with Soft Token";
+
+/* Class = "UIButton"; normalTitle = "CLOSE"; ObjectID = "sCw-5l-yQd"; */
+"sCw-5l-yQd.normalTitle" = "CLOSE";
+
+/* Class = "UIButton"; normalTitle = "Resend OTP?"; ObjectID = "sWf-HA-wrD"; */
+"sWf-HA-wrD.normalTitle" = "Resend OTP?";
+
+/* Class = "UILabel"; text = "Add Alexa"; ObjectID = "sdR-hj-68A"; */
+"sdR-hj-68A.text" = "Add Alexa";
+
+/* Class = "UIButton"; normalTitle = "VERIFY"; ObjectID = "skC-CW-uu0"; */
+"skC-CW-uu0.normalTitle" = "VERIFY";
+
+/* Class = "UIButton"; normalTitle = "Soft Token"; ObjectID = "t8e-gc-PK1"; */
+"t8e-gc-PK1.normalTitle" = "Soft Token";
+
+/* Class = "UINavigationItem"; title = "HOME"; ObjectID = "tJE-Bw-fbj"; */
+"tJE-Bw-fbj.title" = "HOME";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "tjd-Ow-egO"; */
+"tjd-Ow-egO.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "Update Your Alexa Settings Here!.."; ObjectID = "uoB-3N-Sf0"; */
+"uoB-3N-Sf0.text" = "Update Your Alexa Settings Here!..";
+
+/* Class = "UILabel"; text = "Alexa"; ObjectID = "vg0-Bv-Aek"; */
+"vg0-Bv-Aek.text" = "Alexa";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "vnx-ge-yxF"; */
+"vnx-ge-yxF.text" = "Sign Up";
+
+/* Class = "UILabel"; text = "Enter 6 digit OTP "; ObjectID = "xZQ-sg-x2H"; */
+"xZQ-sg-x2H.text" = "Enter 6 digit OTP ";
+
+/* Class = "UITextField"; placeholder = "****"; ObjectID = "yJg-Re-6fS"; */
+"yJg-Re-6fS.placeholder" = "****";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "ygV-T3-vkm"; */
+"ygV-T3-vkm.normalTitle" = "Forgot Password?";
+
+/* Class = "UIButton"; normalTitle = "Sign Up Here!.."; ObjectID = "z2Q-Qd-TON"; */
+"z2Q-Qd-TON.normalTitle" = "Sign Up Here!..";
+
+/* Class = "UIButton"; normalTitle = "Bio-Metric"; ObjectID = "zzl-EV-igv"; */
+"zzl-EV-igv.normalTitle" = "Bio-Metric";

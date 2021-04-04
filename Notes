@@ -1,0 +1,9 @@
+Constraints working 
+Finished api for login, sign up, and otp generation
+
+Separate services for tf and validations
+ Verify user completed
+
+Button ui separate function, add card and get all cards finished
+
+Local storage handling for model class and overall constraints finished
